@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/FirstPersion AIO Pack/DemoScene/Scene/Demo.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Exterior_swimming_pool/Scene/exterior_swimming_pool.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
